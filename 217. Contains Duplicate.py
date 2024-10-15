@@ -19,3 +19,4 @@ class Solution:
             else:
                 s.add(num)
         return False
+# Time Complexity o(n)
