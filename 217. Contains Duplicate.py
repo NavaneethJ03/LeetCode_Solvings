@@ -7,3 +7,5 @@ class Solution:
             return False
 
 # Time Complexity O(n)
+
+# Another Solution
