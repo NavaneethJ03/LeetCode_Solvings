@@ -5,3 +5,5 @@ class Solution:
 
         else:
             return False
+
+# Time Complexity O(n)
