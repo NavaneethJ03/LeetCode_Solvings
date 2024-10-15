@@ -20,3 +20,5 @@ class Solution:
                 s.add(num)
         return False
 # Time Complexity o(n)
+
+# Both are one of the optimal solutions 
