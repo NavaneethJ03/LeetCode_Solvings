@@ -10,3 +10,4 @@ class Solution:
                 stk.pop()
             else:
                 stk.append(int(ops))
+            return sum(stk)
