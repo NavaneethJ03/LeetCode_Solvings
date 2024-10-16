@@ -11,3 +11,6 @@ class Solution:
             else:
                 stk.append(int(ops))
             return sum(stk)
+
+
+# Time Complexity - O(n)
