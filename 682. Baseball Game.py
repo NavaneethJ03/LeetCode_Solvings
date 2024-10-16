@@ -6,3 +6,5 @@ class Solution:
                 stk.append(int(stk[-1]) + int(stk[-2]))
             elif ops == "D":
                 stk.append(2*int(stk[-1]))
+            elif ops == "C":
+                stk.pop()
