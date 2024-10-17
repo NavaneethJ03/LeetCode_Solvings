@@ -6,3 +6,5 @@ class Solution:
             if c not in hashmap:
                 stk.append(c)
             else:
+                if not stk:
+                    return False
