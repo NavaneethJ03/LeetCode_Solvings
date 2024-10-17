@@ -4,3 +4,5 @@ class Solution:
         stk = []
         for c in s:
             if c not in hashmap:
+                stk.append(c)
+            else:
