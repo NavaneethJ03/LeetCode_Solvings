@@ -12,3 +12,4 @@ class Solution:
                     popped = stk.pop()
                     if popped != hashmap[c]:
                         return False 
+        return not stk
