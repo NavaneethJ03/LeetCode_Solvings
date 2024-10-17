@@ -8,3 +8,5 @@ class Solution:
             else:
                 if not stk:
                     return False
+                else:
+                    popped = stk.pop()
