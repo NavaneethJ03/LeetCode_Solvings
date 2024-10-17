@@ -13,3 +13,6 @@ class Solution:
                     if popped != hashmap[c]:
                         return False 
         return not stk
+
+# Time Complexity - O(n)
+
