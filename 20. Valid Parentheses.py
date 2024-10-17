@@ -10,3 +10,5 @@ class Solution:
                     return False
                 else:
                     popped = stk.pop()
+                    if popped != hashmap[c]:
+                        return False 
