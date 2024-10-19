@@ -7,3 +7,5 @@ class Solution:
             else :
                 cur = cur.next
         return head 
+# Time Complexity - O(n)
+# Space Complexity - O(1)
