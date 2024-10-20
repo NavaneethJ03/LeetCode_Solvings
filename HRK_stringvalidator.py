@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print(any(c.isdigit() for c in input_string))  # Check for digits
     print(any(c.islower() for c in input_string))  # Check for lowercase
     print(any(c.isupper() for c in input_string))  # Check for uppercase
+
