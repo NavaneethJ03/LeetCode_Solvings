@@ -12,7 +12,6 @@ class Solution:
             else:
                 summ += d[s[i]]
                 i += 1
-        
         return summ
         
         # Time: O(n)
