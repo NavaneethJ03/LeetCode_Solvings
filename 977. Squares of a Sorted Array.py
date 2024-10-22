@@ -5,4 +5,9 @@ class Solution:
             nums1.append(i*i)
         nums1.sort()
         return nums1
+
+# Time Complexity -  O(n logn)
+
+
+ 
         
