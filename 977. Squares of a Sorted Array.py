@@ -10,6 +10,7 @@ class Solution:
 # Time Complexity -  O(n logn) Brute Force 
 
 
+
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         n = len(nums)
