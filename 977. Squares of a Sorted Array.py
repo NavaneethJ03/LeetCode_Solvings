@@ -27,7 +27,6 @@ class Solution:
             pos -= 1
         
         return result
-
 # Time Complexity -  O(n) fastest
 
  
