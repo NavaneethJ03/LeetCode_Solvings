@@ -5,3 +5,6 @@ class Solution:
         """
         i = 0
         j = len(s) - 1
+        while i < j:
+            # Swap characters at i and j
+            s[i], s[j] = s[j], s[i]
