@@ -8,3 +8,5 @@ class Solution:
         while i < j:
             # Swap characters at i and j
             s[i], s[j] = s[j], s[i]
+            i += 1
+            j -= 1
