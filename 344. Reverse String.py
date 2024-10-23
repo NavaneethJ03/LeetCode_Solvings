@@ -3,3 +3,5 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
+        i = 0
+        j = len(s) - 1
