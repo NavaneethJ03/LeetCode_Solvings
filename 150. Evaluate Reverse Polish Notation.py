@@ -12,3 +12,5 @@ class Solution:
                     stk.append(s1 + s2)
                 elif i == "-":
                     stk.append(s2 - s1)
+                elif i == "*":
+                    stk.append(s2*s1)
