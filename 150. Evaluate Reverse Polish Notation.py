@@ -4,3 +4,5 @@ class Solution:
         stk = []
         for i in tokens:
             if i not in hashset:
+                stk.append(int(i))
+            else:
