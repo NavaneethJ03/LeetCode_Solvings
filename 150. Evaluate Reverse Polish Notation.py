@@ -16,3 +16,4 @@ class Solution:
                     stk.append(s2*s1)
                 else:
                     stk.append(int(s2/s1))
+        return stk.pop()
