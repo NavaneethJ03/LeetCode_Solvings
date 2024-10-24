@@ -6,3 +6,5 @@ class Solution:
             if i not in hashset:
                 stk.append(int(i))
             else:
+                s1 =  stk.pop()
+                s2 =  stk.pop()
