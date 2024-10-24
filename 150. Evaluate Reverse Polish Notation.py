@@ -8,3 +8,5 @@ class Solution:
             else:
                 s1 =  stk.pop()
                 s2 =  stk.pop()
+                if i == "+":
+                    stk.append(s1 + s2)
