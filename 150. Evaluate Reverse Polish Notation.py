@@ -17,3 +17,6 @@ class Solution:
                 else:
                     stk.append(int(s2/s1))
         return stk.pop()
+
+# Time Complexity -  O(n)
+# Space Complexity -  O(n)
