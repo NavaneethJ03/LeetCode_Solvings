@@ -10,3 +10,5 @@ class Solution:
                 s2 =  stk.pop()
                 if i == "+":
                     stk.append(s1 + s2)
+                elif i == "-":
+                    stk.append(s2 - s1)
