@@ -10,6 +10,5 @@ class Solution:
 
         else:
             return ans 
-
 #Time Complexity - O(n)
 #Space Complexity - O(1)
