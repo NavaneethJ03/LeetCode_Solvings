@@ -8,3 +8,4 @@ class Solution:
         return False
 time
 space
+n = 0
