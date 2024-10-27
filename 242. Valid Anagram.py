@@ -6,3 +6,4 @@ class Solution:
         if f == g:
             return True
         return False
+time
