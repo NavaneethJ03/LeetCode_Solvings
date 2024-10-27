@@ -6,6 +6,4 @@ class Solution:
         if f == g:
             return True
         return False
-time
-space
-n = 0
+
