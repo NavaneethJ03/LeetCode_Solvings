@@ -4,6 +4,7 @@ class Solution:
         l = 0
         r = n - 1 
         
+        
         while l <= r:
             m  = l + ((r - l)//2)
             if target == nums[m]:
