@@ -7,3 +7,4 @@ class Solution:
         if s_dup==s_dup[::-1]:
             return True
         return False
+# Brute force method 
