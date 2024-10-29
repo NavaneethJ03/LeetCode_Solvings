@@ -16,3 +16,7 @@ class Solution:
             return m+1
         else:
             return m
+
+# Time Complexity - O(logn)
+# Space Complexity - O(1)
+
