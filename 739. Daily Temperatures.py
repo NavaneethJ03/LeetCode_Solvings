@@ -4,3 +4,5 @@ class Solution:
         n = len(temps)
         answer = [0] * n
         stk = []
+        for i, t in enumerate(temps):
+            while stk and stk[-1][0] < t:
