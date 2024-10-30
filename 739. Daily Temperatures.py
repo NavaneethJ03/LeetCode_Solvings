@@ -10,3 +10,7 @@ class Solution:
                 answer[stk_i] = i - stk_i
                 stk.append((t, i))
         return answer
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+
