@@ -8,3 +8,5 @@ class Solution:
         while i < min_len:
             for s in strs:
                 if s[i] != strs[0][i]:
+                     return s[:i]
+            i+=1
