@@ -12,5 +12,5 @@ class Solution:
             i+=1
         return strs[0][:i]
 
-# Time Complexity - O(m * n)
+# Time Complexity - O(m * n) m -  min_length for loop , n - for common prefix 
 # Space Complexity - O(1)
