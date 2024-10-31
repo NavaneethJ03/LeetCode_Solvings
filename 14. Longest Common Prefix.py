@@ -11,3 +11,6 @@ class Solution:
                      return s[:i]
             i+=1
         return strs[0][:i]
+
+# Time Complexity - O(m * n)
+# Space Complexity - O(1)
