@@ -3,4 +3,7 @@ class Solution:
         j = 0 
         n = len(s)
         m = len(t)
-        if s == '':return True
+        if s == '': return True
+        if n > m : return False
+        
+        for i in range(m):
