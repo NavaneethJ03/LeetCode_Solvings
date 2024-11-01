@@ -12,3 +12,4 @@ class Solution:
                 if j == n - 1:
                     return True 
                 j+=1
+        return False
