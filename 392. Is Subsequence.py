@@ -10,3 +10,5 @@ class Solution:
             if t[i] == s[j]:
                 
                 if j == n - 1:
+                    return True 
+                j+=1
