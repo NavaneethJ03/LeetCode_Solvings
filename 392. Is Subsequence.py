@@ -8,7 +8,6 @@ class Solution:
         
         for i in range(m):
             if t[i] == s[j]:
-                
                 if j == n - 1:
                     return True 
                 j+=1
