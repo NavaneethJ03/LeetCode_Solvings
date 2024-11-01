@@ -13,3 +13,4 @@ class Solution:
                     return True 
                 j+=1
         return False
+# Time Complexity - O(n)
