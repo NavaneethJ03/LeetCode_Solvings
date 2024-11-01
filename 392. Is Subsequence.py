@@ -7,3 +7,6 @@ class Solution:
         if n > m : return False
         
         for i in range(m):
+            if t[i] == s[j]:
+                
+                if j == n - 1:
