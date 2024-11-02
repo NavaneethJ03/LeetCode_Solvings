@@ -6,3 +6,5 @@ class Solution:
         while i < n :
             for j in nums:
                 if (nums[i] + j = target ):
+                    output.append(i)
+                    output.append(j)
