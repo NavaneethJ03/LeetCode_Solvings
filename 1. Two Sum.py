@@ -8,3 +8,8 @@ class Solution:
                 if (nums[i] + j = target ):
                     output.append(i)
                     output.append(j)
+                    else:
+                        continue 
+            i+=1
+
+            return output
