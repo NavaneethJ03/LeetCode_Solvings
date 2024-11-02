@@ -4,3 +4,5 @@ class Solution:
         i = 0 
         output=[]
         while i < n :
+            for j in nums:
+                if (nums[i] + j = target ):
