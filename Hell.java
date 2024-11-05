@@ -18,3 +18,4 @@ public class Hell{
         
         }
     }
+// Code to Generate Binary number of a given integer 
