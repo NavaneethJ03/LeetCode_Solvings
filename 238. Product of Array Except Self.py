@@ -8,3 +8,5 @@ class Solution:
         for i in range(n):
             j = -i -1 
             left_array[i] = left_mul
+            right_array[j] = right_mul
+            left_mul *= nums[i]
