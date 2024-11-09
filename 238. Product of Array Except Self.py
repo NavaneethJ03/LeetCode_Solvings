@@ -6,3 +6,5 @@ class Solution:
         left_array = [0]*n
         right_array = [0]*n
         for i in range(n):
+            j = -i -1 
+            left_array[i] = left_mul
