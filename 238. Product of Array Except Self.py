@@ -10,3 +10,6 @@ class Solution:
             left_array[i] = left_mul
             right_array[j] = right_mul
             left_mul *= nums[i]
+            right_mul *= nums[j]
+
+        return [l*r for l, r in zip(left_array , right_array)]
