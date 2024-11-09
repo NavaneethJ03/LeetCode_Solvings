@@ -4,3 +4,5 @@ class Solution:
         right_mul =  1 
         n =  len(nums)
         left_array = [0]*n
+        right_array = [0]*n
+        for i in range(n):
