@@ -13,3 +13,6 @@ class Solution:
             right_mul *= nums[j]
 
         return [l*r for l, r in zip(left_array , right_array)]
+
+# Time Complexity -  O(n)
+# Space Complexity - O(n)
