@@ -9,3 +9,5 @@ class Solution:
             else:
                 result.append(False)
         return result
+# Time Complexity - O(n)
+# Space Complexity - O(n)
