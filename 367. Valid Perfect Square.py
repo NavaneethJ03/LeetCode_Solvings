@@ -13,4 +13,6 @@ class Solution:
             else:
                 R =  M - 1 
         return False
+# Time Complexity -  O(log n )
+# Space Complexity -  O(1)
         
