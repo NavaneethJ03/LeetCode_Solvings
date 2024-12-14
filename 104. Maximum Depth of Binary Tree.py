@@ -14,7 +14,8 @@ class Solution:
         return max(right,left) + 1
 
 # Time Complexity -  O(n)
-# Space Complexity -  O(n)
+# Space Complexity -  O(h) - height of the tree 
+
 
 
         
