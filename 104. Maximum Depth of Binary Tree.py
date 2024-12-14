@@ -13,6 +13,9 @@ class Solution:
 
         return max(right,left) + 1
 
+# Time Complexity -  O(n)
+# Space Complexity -  O(n)
+
 
         
                 
